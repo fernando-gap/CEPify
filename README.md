@@ -1,5 +1,5 @@
 # CEPify
-Busca informações sobre sobre um determinado CEP e mostra ao usúario de forma amig
+Busca informações sobre sobre um determinado CEP e mostra ao usúario de forma amigável.
 #### Setup
 Para rodar o projeto basta executar os comandos abaixo e acessar `http://localhost:3000`.
 
